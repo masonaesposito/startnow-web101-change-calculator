@@ -1,0 +1,1 @@
+Put in the amount paid and the amount owed and the difference is your change.
